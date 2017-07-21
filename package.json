@@ -1,0 +1,26 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "Rest todolistapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error : No test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "piyush",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.3"
+  }
+}
